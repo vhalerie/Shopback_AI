@@ -1,4 +1,5 @@
 To access the prototype, go to https://vhalerie.github.io/Shopback_AI/shopback-prototype_1.html
+
 Instructions on how to use the prototype:
 
 The prototype simulates a mobile screen. All interactions are tap/click-based.
